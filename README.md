@@ -34,7 +34,7 @@ Session: Manages the connection and provides methods to create, read, update, an
 
 Transaction: Manages transactions to ensure data consistency.
 
-#5.How It Works:
+## 5.How It Works:
 
 Mappings: Defined in XML files or using annotations, mappings connect Java classes to database tables.
 
