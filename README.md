@@ -4,7 +4,7 @@ HIBERNATE
 ## 1. Definition:
 Hibernate is an object-relational mapping (ORM) framework for Java applications, facilitating the mapping of Java objects to database tables.
 
-#2.Main Features:
+## 2.Main Features:
 
 Automatic Table Creation: Hibernate can automatically create database tables based on Java class definitions.
 
@@ -16,7 +16,7 @@ Transaction Management: Integrates seamlessly with Java Transaction API (JTA) an
 
 Lazy Loading: It supports lazy loading, which improves performance by loading only necessary data.
 
-#3.Advantages:
+## 3.Advantages:
 
 Database Independence: Hibernate provides database independence, meaning it can work with any database.
 
@@ -24,7 +24,7 @@ Reduced Boilerplate Code: By handling the creation and execution of SQL queries,
 
 Scalability: Hibernate is scalable and suitable for large-scale applications.
 
-#4.Core Components:
+## 4.Core Components:
 
 Configuration: Reads the configuration settings and initializes Hibernate.
 
