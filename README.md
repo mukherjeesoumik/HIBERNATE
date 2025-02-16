@@ -24,7 +24,7 @@ Reduced Boilerplate Code: By handling the creation and execution of SQL queries,
 
 Scalability: Hibernate is scalable and suitable for large-scale applications.
 
-## 4.Core Components:
+## 4. Core Components:
 
 Configuration: Reads the configuration settings and initializes Hibernate.
 
