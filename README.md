@@ -1,8 +1,45 @@
 # HIBERNATE
 HIBERNATE
 
-# JSP ( Java Server Pages )
-JavaServer Pages (JSP) is a server-side technology that allows developers to create dynamic, platform-independent web applications. JSP is part of the Java EE (Enterprise Edition) platform and is an extension of the servlet technology.
+Definition: Hibernate is an object-relational mapping (ORM) framework for Java applications, facilitating the mapping of Java objects to database tables.
+
+Main Features:
+
+Automatic Table Creation: Hibernate can automatically create database tables based on Java class definitions.
+
+SQL Generation: Hibernate generates SQL queries automatically, reducing the need for manual query writing.
+
+Caching Mechanism: It supports multiple levels of caching (first-level and second-level) to improve performance.
+
+Transaction Management: Integrates seamlessly with Java Transaction API (JTA) and Java Database Connectivity (JDBC).
+
+Lazy Loading: It supports lazy loading, which improves performance by loading only necessary data.
+
+Advantages:
+
+Database Independence: Hibernate provides database independence, meaning it can work with any database.
+
+Reduced Boilerplate Code: By handling the creation and execution of SQL queries, it reduces the amount of boilerplate code.
+
+Scalability: Hibernate is scalable and suitable for large-scale applications.
+
+Core Components:
+
+Configuration: Reads the configuration settings and initializes Hibernate.
+
+SessionFactory: Creates and provides instances of Session.
+
+Session: Manages the connection and provides methods to create, read, update, and delete operations.
+
+Transaction: Manages transactions to ensure data consistency.
+
+How It Works:
+
+Mappings: Defined in XML files or using annotations, mappings connect Java classes to database tables.
+
+Entity Classes: Java classes annotated to represent database entities.
+
+HQL (Hibernate Query Language): Hibernate's powerful query language similar to SQL but object-oriented.
 
 <br>
 
@@ -10,8 +47,7 @@ JavaServer Pages (JSP) is a server-side technology that allows developers to cre
 
 <br>
 
-# Employee Management System :
-
+# Folder Structure :
 
 
 ``` bash
