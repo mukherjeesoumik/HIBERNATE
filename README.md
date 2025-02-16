@@ -91,7 +91,7 @@ HIBERNATE
 
     <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
-    <dependencies> <!-- Write this -->
+    <dependencies> <!-- start -->
 
     <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
     <dependency>
@@ -107,7 +107,7 @@ HIBERNATE
         <version>7.0.0.Beta4</version>
     </dependency>
 
-    </dependencies>
+    </dependencies> <!-- end -->
 
     <!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
