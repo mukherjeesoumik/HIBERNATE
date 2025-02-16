@@ -15,20 +15,22 @@ JavaServer Pages (JSP) is a server-side technology that allows developers to cre
 
 
 ``` bash
-MyApp
-├── src
-|   └── main
-|       ├── java
-|       |   └── com.soumikservlet
-|       |        |
-|       |        └── LoginServlet.java
-|       |        └── RegisterServlet.java
-|       └── webapp
-|           ├── WEB-INF
-|           |   └── web.xml
-|           └── index.jsp
-|           └── register.html
-├── pom.xml
+HIBERNATE
+|-- src
+|   |-- main
+|       |-- java
+|           |-- org
+|               |-- example
+|                   |-- Alien.java
+|                   |-- Main.java
+|-- resources
+|-- target
+|   |-- classes
+|       |-- org
+|           |-- example
+|-- hibernate.cfg.xml
+|-- pom.xml
+
 
 ```
 #pom.xml
