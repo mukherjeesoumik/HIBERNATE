@@ -1,7 +1,7 @@
 # HIBERNATE
 HIBERNATE
 
-#1. Definition:
+## 1. Definition:
 Hibernate is an object-relational mapping (ORM) framework for Java applications, facilitating the mapping of Java objects to database tables.
 
 #2.Main Features:
