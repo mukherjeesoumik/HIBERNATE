@@ -19,16 +19,14 @@ HIBERNATE
 |-- src
 |   |-- main
 |       |-- java
-|           |-- org
-|               |-- example
+|           |-- org.example
 |                   |-- Alien.java
 |                   |-- Main.java
-|-- resources
-|-- target
+|    |-- resources
+|       |-- hibernate.cfg.xml
+|--test
+-- target
 |   |-- classes
-|       |-- org
-|           |-- example
-|-- hibernate.cfg.xml
 |-- pom.xml
 
 
